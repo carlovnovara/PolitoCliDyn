@@ -3,7 +3,7 @@ Date May 2,2024
 Authors  
 Enrico Canuto  
 Carlo Novara  
-Alessandro d'Apice  
+Alessandro D'Apice  
   
 To publish code about Climate Dynamics   
 First code package: 1st order Carbon Cycle     
